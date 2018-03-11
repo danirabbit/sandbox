@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/danrabbit/sandbox">
+    <file alias="grass.svg" compressed="true">Tiles/grass.svg</file>
+    <file alias="water.svg" compressed="true">Tiles/water.svg</file>
+  </gresource>
+</gresources>
